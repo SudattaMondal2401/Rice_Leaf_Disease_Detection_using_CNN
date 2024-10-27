@@ -1,2 +1,2 @@
 # Rice_Leaf_Disease_Detection_using_CNN
-A repository containing a code to detect the disease on a rice leaf image using pre-trained CNN model
+A repository containing a code to detect the disease on a rice leaf image using a novel CNN model. Also contains a GAN model for generating synthetic images of the diseased leaves, so as to balance the dataset without using image augmentation. However, the GAN model does not seem to work well and Currently work is being done to achieve the same results using a pre-trained GAN model.
